@@ -1,0 +1,9 @@
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\bin\Debug\CHATCLIENTE.exe
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\bin\Debug\CHATCLIENTE.pdb
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.csprojAssemblyReference.cache
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.Form1.resources
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.Properties.Resources.resources
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.csproj.GenerateResource.cache
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.exe
+C:\Users\Fernández Maldonado\source\repos\CHATCLIENTE\CHATCLIENTE\obj\Debug\CHATCLIENTE.pdb
